@@ -2,8 +2,8 @@
 #include<conio.h>
 int main()
 {
-    char arr[]="planing and analysis";
-    char ar[]="and";
+    char arr[]="abcdbcdbcd";
+    char ar[]="abcd";
     int n = sizeof(arr)-1;
     int m = sizeof(ar)-1;
 int j=0,count=0;
@@ -15,7 +15,7 @@ int j=0,count=0;
     }
     for(int i=0;i<=n-m;i++){
     
-   
+        printf("%d\n",i);
         printf("\n[%c] == [%c] ", ar[j], arr[i]);
         if(ar[j]==arr[i]){
             j++;
@@ -26,9 +26,13 @@ int j=0,count=0;
                 return 1;
             }
         }
-        else{
+        else {
             // printf("else");
-            j = j-count;
+            j = 0;
+
+            if (count != 0){
+                i--;
+            }
             count = 0;
         }
 
