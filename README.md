@@ -14,7 +14,7 @@ Welcome to my #100DaysOfCode journey! 🌟 Follow along as I dive into the world
 
 ## Day 2 - August 28th:
 
-🎯 **Progress**: Completed Section 2 of the C/C++ essentials journey. Object-Oriented Programming (OOPS) concepts, Classes, and Template classes unlocked! 💡
+🎯 **Progress**: Completed Section 2 of the C/C++ essentials journey. Object-Oriented Programming (OOPS) concepts, Classes, and Template classes are unlocked! 💡
 
 📚 **Topics**: OOPS Principles, Class Fundamentals, Template Class Tricks.
 
@@ -22,7 +22,14 @@ Welcome to my #100DaysOfCode journey! 🌟 Follow along as I dive into the world
 
 🎯 **Progress**: Wrapped up Section 4 of Abdul Bari's Mastering DSA course. Explored memory management, data structures, and complexities. 💪
 
-📚 **Topics**: Stack vs Heap Memory, Physical vs Logical Data Structures, Abstract Datatypes, Time & Space Complexity.
+📚 **Topics**: Stack vs Heap Memory, Physical vs Logical Data Structures, Abstract Datatypes, Time and space Complexity.
+
+## Day 4 - August 30th:
+
+🎯 **Progress**: Dived into the magic of recursion! Unraveled the mysteries of stack usage, types of recursion, and complexity calculations.
+
+📚 **Topics**: How recursion uses stack, Types of Recursion, Complexity Calculation.
+
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
 
