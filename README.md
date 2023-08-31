@@ -30,6 +30,12 @@ Welcome to my #100DaysOfCode journey! 🌟 Follow along as I dive into the world
 
 📚 **Topics**: How recursion uses stack, Types of Recursion, Complexity Calculation.
 
+## Day 5 - August 31st:
+
+🎯 **Progress**: Today was a bit challenging. Deep into the world of recursion, taking it step by step, and ensuring a thorough understanding.
+
+Sometimes progress may be slow, but it's still progress! 🚀
+
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
 
