@@ -36,6 +36,10 @@ Welcome to my #100DaysOfCode journey! 🌟 Follow along as I dive into the world
 
 Sometimes progress may be slow, but it's still progress! 🚀
 
+## Day 6 - September 1st:
+
+🎯 **Progress**: I wasn't able to cover much today, but tried to cover those concepts of arrays, which I never touched.
+
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
 
