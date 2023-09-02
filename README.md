@@ -40,6 +40,12 @@ Sometimes progress may be slow, but it's still progress! 🚀
 
 🎯 **Progress**: I wasn't able to cover much today, but tried to cover those concepts of arrays, which I never touched.
 
+## Day 7 - September 2nd:
+
+🎯 **Progress**: Completed the Array representation section, delving into compiler magic and row/column major formulas for arrays. 📊💡
+
+Tomorrow, it's on to the Array Abstract Data Type - the adventure continues! 🚀
+
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
 
