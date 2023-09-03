@@ -44,6 +44,12 @@ Sometimes progress may be slow, but it's still progress! 🚀
 
 🎯 **Progress**: Completed the Array representation section, delving into compiler magic and row/column major formulas for arrays. 📊💡
 
+## Day 8 - September 3rd:
+
+🎯 **Progress**: A day of competition! Participated in the GFG contest and implemented various array-related operations with enthusiasm. 💻🏆
+
+Every challenge is a chance to grow! 💪
+
 Tomorrow, it's on to the Array Abstract Data Type - the adventure continues! 🚀
 
 
