@@ -48,6 +48,11 @@ Sometimes progress may be slow, but it's still progress! 🚀
 
 🎯 **Progress**: A day of competition! Participated in the GFG contest and implemented various array-related operations with enthusiasm. 💻🏆
 
+## Day 9 - September 4th:
+
+🎯 **Progress**: A day packed with array manipulation! Explored linear and binary search, and mastered array operations like getting, setting, finding averages, finding max values, reversing, shifting, and rotating. 💡💻
+
+
 Every challenge is a chance to grow! 💪
 
 Tomorrow, it's on to the Array Abstract Data Type - the adventure continues! 🚀
