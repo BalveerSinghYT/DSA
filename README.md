@@ -52,6 +52,11 @@ Sometimes progress may be slow, but it's still progress! 🚀
 
 🎯 **Progress**: A day packed with array manipulation! Explored linear and binary search, and mastered array operations like getting, setting, finding averages, finding max values, reversing, shifting, and rotating. 💡💻
 
+## Day 10 - September 5th:
+
+🎯 **Progress**: Sorting, merging, union, intersection, and difference between two arrays - today's array adventures took me to new heights of manipulation! 🔄🧩
+
+
 
 Every challenge is a chance to grow! 💪
 
