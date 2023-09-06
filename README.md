@@ -56,6 +56,9 @@ Sometimes progress may be slow, but it's still progress! 🚀
 
 🎯 **Progress**: Sorting, merging, union, intersection, and difference between two arrays - today's array adventures took me to new heights of manipulation! 🔄🧩
 
+## Day 11 - September 6th:
+
+🎯 **Progress**: Overcame procrastination to conquer the "stock buy and sell" problem on GeeksforGeeks, a challenge that had stumped me last month. Code optimization is next! 📈🤓
 
 
 Every challenge is a chance to grow! 💪
