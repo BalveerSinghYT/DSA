@@ -60,6 +60,9 @@ Sometimes progress may be slow, but it's still progress! 🚀
 
 🎯 **Progress**: Overcame procrastination to conquer the "stock buy and sell" problem on GeeksforGeeks, a challenge that had stumped me last month. Code optimization is next! 📈🤓
 
+## Day 12 - September 7th:
+
+🎯 **Progress**: Tackled the backlog today! 📝 Wrapped up pending topics with code for array and set operations. Clearing the path for more coding adventures! 🚀💻
 
 Every challenge is a chance to grow! 💪
 
