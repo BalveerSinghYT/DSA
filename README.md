@@ -64,6 +64,10 @@ Sometimes progress may be slow, but it's still progress! 🚀
 
 🎯 **Progress**: Tackled the backlog today! 📝 Wrapped up pending topics with code for array and set operations. Clearing the path for more coding adventures! 🚀💻
 
+## Day 13 - September 8th:
+
+🎯 **Progress**: Navigating the world of missing elements! 🧩 Explored various scenarios in finding missing elements in arrays - sorted from 1, sorted from random numbers, and dealing with multiple missing elements. 🕵️‍♀️🔍
+
 Every challenge is a chance to grow! 💪
 
 Tomorrow, it's on to the Array Abstract Data Type - the adventure continues! 🚀
