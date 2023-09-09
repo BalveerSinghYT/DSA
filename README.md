@@ -60,6 +60,19 @@ Sometimes progress may be slow, but it's still progress! 🚀
 
 🎯 **Progress**: Overcame procrastination to conquer the "stock buy and sell" problem on GeeksforGeeks, a challenge that had stumped me last month. Code optimization is next! 📈🤓
 
+## Day 12 - September 7th:
+
+🎯 **Progress**: Tackled the backlog today! 📝 Wrapped up pending topics with code for array and set operations. Clearing the path for more coding adventures! 🚀💻
+
+## Day 13 - September 8th:
+
+🎯 **Progress**: Navigating the world of missing elements! 🧩 Explored various scenarios in finding missing elements in arrays - sorted from 1, sorted from random numbers, and dealing with multiple missing elements. 🕵️‍♀️🔍
+
+## Day 14 - September 9th:
+
+🎯 **Progress**: Completed the Array ADT section today! Explored different methods to find duplicates in sorted and unsorted arrays, uncovering pairs of elements with a given sum, and finding max/min in a single scan. 🧐🔍
+
+Optimization with hashing unlocked new dimensions! 💡💻
 
 Every challenge is a chance to grow! 💪
 
