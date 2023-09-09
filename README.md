@@ -68,6 +68,12 @@ Sometimes progress may be slow, but it's still progress! 🚀
 
 🎯 **Progress**: Navigating the world of missing elements! 🧩 Explored various scenarios in finding missing elements in arrays - sorted from 1, sorted from random numbers, and dealing with multiple missing elements. 🕵️‍♀️🔍
 
+## Day 14 - September 9th:
+
+🎯 **Progress**: Completed the Array ADT section today! Explored different methods to find duplicates in sorted and unsorted arrays, uncovering pairs of elements with a given sum, and finding max/min in a single scan. 🧐🔍
+
+Optimization with hashing unlocked new dimensions! 💡💻
+
 Every challenge is a chance to grow! 💪
 
 Tomorrow, it's on to the Array Abstract Data Type - the adventure continues! 🚀
