@@ -72,7 +72,9 @@ Sometimes progress may be slow, but it's still progress! 🚀
 
 🎯 **Progress**: Completed the Array ADT section today! Explored different methods to find duplicates in sorted and unsorted arrays, uncovering pairs of elements with a given sum, and finding max/min in a single scan. 🧐🔍
 
-Optimization with hashing unlocked new dimensions! 💡💻
+## Day 15 - September 10th:
+
+🎯 **Progress**: Explored the world of Strings! 🧵 Found Abdul Bari sir's Udemy course on DSA really useful, well-structured, and interactive. 💡 Covered a range of string operations - from length and case changes to counting words, vowels, validation, and reversing. 🚀💬 #100DaysOfCode #StringMagic 👩‍💻📖
 
 Every challenge is a chance to grow! 💪
 
