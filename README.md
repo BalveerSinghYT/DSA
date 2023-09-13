@@ -78,8 +78,15 @@ Sometimes progress may be slow, but it's still progress! 🚀
 
 Every challenge is a chance to grow! 💪
 
-Tomorrow, it's on to the Array Abstract Data Type - the adventure continues! 🚀
+## Day 16 - September 11th:
 
+🎯 **Progress**: Delved deep into strings today! Wrote my own functions for string operations - length, word count, vowels count, lower, and upper case. Also explored non-string topics, like palindromes, and tackled the GCD problem using recursion. The journey continues! 🚀🧩 #100DaysOfCode #CodingJourney 👩‍💻📚
+
+## Day 17 - September 12th:
+
+🎯 **Progress**: No major update today, just solved three basic problems on HackerRank.
+
+---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
 
