@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int len_of_string(string s){
+int length(string s){
     int cnt = 0 ;
     for (int i=0; s[i]!='\0'; i++)
         cnt++;
@@ -43,12 +43,33 @@ int count_vowels(string s){
     return cnt;
 }
 
+void reverse(string &s){
+    for (int i=0, j=length(s)-1; i<j; i++, j--){
+        char temp = s[i];
+        s[i] = s[j];
+        s[j] = temp;
+    }
+}
+
+bool is_palindrome(string s){
+    string temp = lower(s);
+
+    for (int i=0, j=length(s)-1; i<j; i++, j--)
+        if (temp[i] != temp[j]){
+            cout<<"False"<<endl;
+            return false;
+        }
+    cout<<"True"<<endl;
+    return true;
+}
+
 int main(){
     string s = "Hello World! Welcome  to the  world of Programming...";
-
-    // cout<<len_of_string(s);
+    // cout<<length(s);
     // cout<<upper(s);
     // cout<<lower(s);
     // cout<<count_words(s);
     // cout<<count_vowels("aei$$#ou");
+    // reverse(s);
+    cout<<is_palindrome("NiTin");
 }
