@@ -86,6 +86,9 @@ Every challenge is a chance to grow! 💪
 
 🎯 **Progress**: No major update today, just solved three basic problems on HackerRank.
 
+## Day 18 - September 13th:
+
+🎯 **Progress**: Today's topics: Palindrome magic! 🔄 Also, delving into the art of checking duplicates in a string using both recursion and hashing. 🧙‍♂️💡 The coding adventure continues!
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
