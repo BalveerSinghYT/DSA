@@ -89,6 +89,11 @@ Every challenge is a chance to grow! 💪
 ## Day 18 - September 13th:
 
 🎯 **Progress**: Today's topics: Palindrome magic! 🔄 Also, delving into the art of checking duplicates in a string using both recursion and hashing. 🧙‍♂️💡 The coding adventure continues!
+
+## Day 20 - September 14th:
+
+I didn't do much today, got caught up in a web series binge! 😅 But in the end, managed to dive into the world of hashing in strings and explored the magic of bitwise operations for finding duplicates. Progress, no matter how small, is still progress!
+
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
