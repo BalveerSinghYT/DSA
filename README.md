@@ -94,6 +94,10 @@ Every challenge is a chance to grow! 💪
 
 I didn't do much today, got caught up in a web series binge! 😅 But in the end, managed to dive into the world of hashing in strings and explored the magic of bitwise operations for finding duplicates. Progress, no matter how small, is still progress!
 
+## Day 21 - September 15th:
+
+🧵 Wrapped up the Strings section today! 💡 Explored finding duplicates using bit operations, cracked the code on anagrams, and delved into permutations of strings.
+
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
