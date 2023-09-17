@@ -90,15 +90,19 @@ Every challenge is a chance to grow! 💪
 
 🎯 **Progress**: Today's topics: Palindrome magic! 🔄 Also, delving into the art of checking duplicates in a string using both recursion and hashing. 🧙‍♂️💡 The coding adventure continues!
 
-## Day 20 - September 14th:
+## Day 19 - September 14th:
 
 I didn't do much today, got caught up in a web series binge! 😅 But in the end, managed to dive into the world of hashing in strings and explored the magic of bitwise operations for finding duplicates. Progress, no matter how small, is still progress!
 
-## Day 21 - September 15th:
+## Day 20 - September 15th:
 
 🧵 Wrapped up the Strings section today! 💡 Explored finding duplicates using bit operations, cracked the code on anagrams, and delved into permutations of strings.
 
-## Day 22 - September 16th:
+## Day 21 - September 16th:
+
+I spent most of my time collecting papers for my research thesis instead of finding anything fruitful related to DSA.
+ 
+## Day 22 - September 17th:
 
 🔄 Revised Recursion concepts & solved a few string-related questions. Also participated in a Leetcode contest and managed to solve one easy-level problem. Started with the Matrices section. The coding journey never stops! 🚀💻
 
