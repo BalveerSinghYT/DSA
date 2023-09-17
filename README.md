@@ -98,6 +98,10 @@ I didn't do much today, got caught up in a web series binge! 😅 But in the end
 
 🧵 Wrapped up the Strings section today! 💡 Explored finding duplicates using bit operations, cracked the code on anagrams, and delved into permutations of strings.
 
+## Day 22 - September 16th:
+
+🔄 Revised Recursion concepts & solved a few string-related questions. Also participated in a Leetcode contest and managed to solve one easy-level problem. Started with the Matrices section. The coding journey never stops! 🚀💻
+
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
