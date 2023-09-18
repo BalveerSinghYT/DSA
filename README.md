@@ -1,4 +1,4 @@
-# 100 Days of Code Journey 🚀
+# #100DaysOfCode Journey 🚀
 
 Welcome to my #100DaysOfCode journey! 🌟 Follow along as I dive into the world of programming, honing my skills and embracing new knowledge every day. Let's turn each line of code into a step towards mastery! 💻📚
 
@@ -106,6 +106,9 @@ I spent most of my time collecting papers for my research thesis instead of find
 
 🔄 Revised Recursion concepts & solved a few string-related questions. Also participated in a Leetcode contest and managed to solve one easy-level problem. Started with the Matrices section. The coding journey never stops! 🚀💻
 
+## Day 23 - September 18th:
+
+📊 Unveiled the magic of Diagonal Matrices, Lower and Upper Order Matrices! 🧮 Explored memory optimization by using a single-dimensional array instead of wasting space on null values. Efficiency is key! 💡💾 
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
