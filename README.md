@@ -1,4 +1,4 @@
-# 100 Days of Code Journey 🚀
+# #100DaysOfCode Journey 🚀
 
 Welcome to my #100DaysOfCode journey! 🌟 Follow along as I dive into the world of programming, honing my skills and embracing new knowledge every day. Let's turn each line of code into a step towards mastery! 💻📚
 
@@ -90,14 +90,25 @@ Every challenge is a chance to grow! 💪
 
 🎯 **Progress**: Today's topics: Palindrome magic! 🔄 Also, delving into the art of checking duplicates in a string using both recursion and hashing. 🧙‍♂️💡 The coding adventure continues!
 
-## Day 20 - September 14th:
+## Day 19 - September 14th:
 
 I didn't do much today, got caught up in a web series binge! 😅 But in the end, managed to dive into the world of hashing in strings and explored the magic of bitwise operations for finding duplicates. Progress, no matter how small, is still progress!
 
-## Day 21 - September 15th:
+## Day 20 - September 15th:
 
 🧵 Wrapped up the Strings section today! 💡 Explored finding duplicates using bit operations, cracked the code on anagrams, and delved into permutations of strings.
 
+## Day 21 - September 16th:
+
+I spent most of my time collecting papers for my research thesis instead of finding anything fruitful related to DSA.
+ 
+## Day 22 - September 17th:
+
+🔄 Revised Recursion concepts & solved a few string-related questions. Also participated in a Leetcode contest and managed to solve one easy-level problem. Started with the Matrices section. The coding journey never stops! 🚀💻
+
+## Day 23 - September 18th:
+
+📊 Unveiled the magic of Diagonal Matrices, Lower and Upper Order Matrices! 🧮 Explored memory optimization by using a single-dimensional array instead of wasting space on null values. Efficiency is key! 💡💾 
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
