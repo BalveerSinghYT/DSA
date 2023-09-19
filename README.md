@@ -109,6 +109,11 @@ I spent most of my time collecting papers for my research thesis instead of find
 ## Day 23 - September 18th:
 
 📊 Unveiled the magic of Diagonal Matrices, Lower and Upper Order Matrices! 🧮 Explored memory optimization by using a single-dimensional array instead of wasting space on null values. Efficiency is key! 💡💾 
+
+## Day 24 - September 19th:
+
+⭐️ Limited time but maximum effort! ⏳🚀 Solved challenging string-related questions on HackerRank using Python, earning my 4th silver badge star. 🌟 Also tackled a problem-solving question, securing my 3rd silver star on HackerRank. The stars keep shining! 🌠💫
+
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
