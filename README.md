@@ -114,6 +114,10 @@ I spent most of my time collecting papers for my research thesis instead of find
 
 ⭐️ Limited time but maximum effort! ⏳🚀 Solved challenging string-related questions on HackerRank using Python, earning my 4th silver badge star. 🌟 Also tackled a problem-solving question, securing my 3rd silver star on HackerRank. The stars keep shining! 🌠💫
 
+## Day 25 - September 20th:
+
+🧠 Today's focus: Memory optimization techniques for Diagonal, Tri-Diagonal/Band, and Toeplitz matrices. 🤖 Also, tackled a few challenges on HackerRank. Learning and coding in full swing! 🚀💡
+
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
