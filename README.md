@@ -118,6 +118,10 @@ I spent most of my time collecting papers for my research thesis instead of find
 
 🧠 Today's focus: Memory optimization techniques for Diagonal, Tri-Diagonal/Band, and Toeplitz matrices. 🤖 Also, tackled a few challenges on HackerRank. Learning and coding in full swing! 🚀💡
 
+## Day 26 - September 21st:
+
+🚀 Job-A-Thon adventure on @GeeksForGeeks! 💼 Solved 1 out of 3 questions. The exciting part? First time ever I used the power of pen, paper, & mathematics to drive a formula that cracked the problem (took half an hour!) instead of directly coding 📝🤯
+
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
