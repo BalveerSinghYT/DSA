@@ -122,6 +122,10 @@ I spent most of my time collecting papers for my research thesis instead of find
 
 🚀 Job-A-Thon adventure on @GeeksForGeeks! 💼 Solved 1 out of 3 questions. The exciting part? First time ever I used the power of pen, paper, & mathematics to drive a formula that cracked the problem (took half an hour!) instead of directly coding 📝🤯
 
+## Day 27 - September 22nd:
+
+📚 Today, the LinkedList journey begins! 🚀 I've been eagerly waiting for this section. Decided to skip Sparse Matrix & Polynomial for now, but they're on my to-do list. Exciting coding adventures ahead! 💡💻
+
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
