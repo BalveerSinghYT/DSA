@@ -126,6 +126,9 @@ I spent most of my time collecting papers for my research thesis instead of find
 
 📚 Today, the LinkedList journey begins! 🚀 I've been eagerly waiting for this section. Decided to skip Sparse Matrix & Polynomial for now, but they're on my to-do list. Exciting coding adventures ahead! 💡💻
 
+## Day 28 - September 23rd:
+
+🔗 Explored LinkedLists today! 🚀 Implemented linked lists and performed various operations like displaying data, finding length, and calculating the sum of elements. Also, conquered the "problem of the day" on GFG and tackled a few challenges on HackerRank. Progress is shining bright! 💡
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
