@@ -109,6 +109,26 @@ I spent most of my time collecting papers for my research thesis instead of find
 ## Day 23 - September 18th:
 
 📊 Unveiled the magic of Diagonal Matrices, Lower and Upper Order Matrices! 🧮 Explored memory optimization by using a single-dimensional array instead of wasting space on null values. Efficiency is key! 💡💾 
+
+## Day 24 - September 19th:
+
+⭐️ Limited time but maximum effort! ⏳🚀 Solved challenging string-related questions on HackerRank using Python, earning my 4th silver badge star. 🌟 Also tackled a problem-solving question, securing my 3rd silver star on HackerRank. The stars keep shining! 🌠💫
+
+## Day 25 - September 20th:
+
+🧠 Today's focus: Memory optimization techniques for Diagonal, Tri-Diagonal/Band, and Toeplitz matrices. 🤖 Also, tackled a few challenges on HackerRank. Learning and coding in full swing! 🚀💡
+
+## Day 26 - September 21st:
+
+🚀 Job-A-Thon adventure on @GeeksForGeeks! 💼 Solved 1 out of 3 questions. The exciting part? First time ever I used the power of pen, paper, & mathematics to drive a formula that cracked the problem (took half an hour!) instead of directly coding 📝🤯
+
+## Day 27 - September 22nd:
+
+📚 Today, the LinkedList journey begins! 🚀 I've been eagerly waiting for this section. Decided to skip Sparse Matrix & Polynomial for now, but they're on my to-do list. Exciting coding adventures ahead! 💡💻
+
+## Day 28 - September 23rd:
+
+🔗 Explored LinkedLists today! 🚀 Implemented linked lists and performed various operations like displaying data, finding length, and calculating the sum of elements. Also, conquered the "problem of the day" on GFG and tackled a few challenges on HackerRank. Progress is shining bright! 💡
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
