@@ -13,6 +13,42 @@ class Node{
     }
 };
 
+// Length of LinkedList
+int countLength(Node* &head){
+    if (head == NULL)
+        return 0;
+    else
+        return countLength(head->next) + 1;
+}
+
+// Min of LinkedList
+int min(Node* head){
+    int x = head->data;
+
+    while (head != NULL){
+        if (head->data < x){
+            x = head->data;
+        }
+        head = head->next;
+    }
+    return x;
+}
+
+// Max of LL via Recurssion
+int max(Node* head){
+    int x = 0;
+
+    if (head == NULL)
+        return INT32_MIN;
+    
+    x = max(head->next);
+
+    if (x > head->data)
+        return x;
+    else
+        return head->data;
+}
+
 // Insertion at front
 void insertAtHead(Node* &head, int d){  
     
@@ -106,12 +142,15 @@ int main(){
     insertAtPosition(1, head, 75);
     printLinkedList(head);
 
-    deleteNode(head, 10);
-    cout<<"After deletion of Node 10: "<<endl;
-    printLinkedList(head);
+    cout<<"Length of LinkedList: "<<countLength(head)<<endl;
+    cout<<"Min of LinkedList: "<<min(head)<<endl;
+    cout<<"Max of LinkedList: "<<max(head)<<endl;
+    // deleteNode(head, 10);
+    // cout<<"After deletion of Node 10: "<<endl;
+    // printLinkedList(head);
 
-    deleteNodePosition(head, 3);
-    cout<<"After deletion of Node 3: "<<endl;
-    printLinkedList(head);
+    // deleteNodePosition(head, 3);
+    // cout<<"After deletion of Node 3: "<<endl;
+    // printLinkedList(head);
 
 }
