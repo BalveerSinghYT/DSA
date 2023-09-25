@@ -134,6 +134,10 @@ I spent most of my time collecting papers for my research thesis instead of find
 
 🧩 Challenging day! Participated in two contests but couldn't solve any problems fully. Managed to tackle 2 questions partially. 🤯 On the LinkedList journey, exploring Max, Min, and searching. Learning the art of writing recursive functions for them! 🚀
 
+## 🎊 Day 30 🎊 - September 25th:
+
+🔍 Navigating the world of searching using recursion and mastering the art of insertion in LinkedLists. 🚀 Explored operations like inserting at the front, middle, and after a specific node, even in sorted lists. Learning and growing every day! 💡💻
+
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
