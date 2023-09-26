@@ -138,6 +138,10 @@ I spent most of my time collecting papers for my research thesis instead of find
 
 🔍 Navigating the world of searching using recursion and mastering the art of insertion in LinkedLists. 🚀 Explored operations like inserting at the front, middle, and after a specific node, even in sorted lists. Learning and growing every day! 💡💻
 
+## Day 31 - September 26th:
+
+🧹 Explored the art of Linkedlist cleanup today! 🚮 Covered node deletion, checking if the list is sorted, and removing duplicates. Keeping those Linkedlists neat and tidy! 💡💻
+
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
