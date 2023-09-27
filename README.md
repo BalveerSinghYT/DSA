@@ -142,6 +142,10 @@ I spent most of my time collecting papers for my research thesis instead of find
 
 🧹 Explored the art of Linkedlist cleanup today! 🚮 Covered node deletion, checking if the list is sorted, and removing duplicates. Keeping those Linkedlists neat and tidy! 💡💻
 
+## Day 32 - September 27th:
+
+🔄 In the LinkedList saga, today I delved into the art of reversing a LinkedList! 🔄 Explored the sliding window approach and the magic of recursion with two pointers. Adding new tools to the coding arsenal!
+
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
