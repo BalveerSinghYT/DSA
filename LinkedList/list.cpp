@@ -49,6 +49,26 @@ int max(Node* head){
         return head->data;
 }
 
+// Searching
+Node* search(Node* head, int x){
+    while (head != NULL){
+        if (head->data == x)
+            return head;
+        head = head->next;
+    }
+    return NULL;
+}
+
+Node* recursiveSearch(Node* head, int x){
+    if (head == NULL)
+        return NULL;
+
+    if (head->data == x)
+        return head;
+        
+    return recursiveSearch(head->next, x);
+}
+
 // Insertion at front
 void insertAtHead(Node* &head, int d){  
     
@@ -125,6 +145,23 @@ void printLinkedList(Node* &head){
     cout<<"Null \n";
 }
 
+// Reverse LL using three pointers
+Node* reverse(Node* head){
+    Node* p = head;
+    Node* q = NULL;
+    Node* r = NULL;
+
+    while (p!=NULL){
+        r = q;
+        q = p;
+        p = p->next;
+        q->next = r;
+    }
+    return q;
+}
+
+
+
 int main(){
     // Initial Linked List
     Node* node1 = new Node(10);
@@ -151,6 +188,8 @@ int main(){
 
     // deleteNodePosition(head, 3);
     // cout<<"After deletion of Node 3: "<<endl;
-    // printLinkedList(head);
+    printLinkedList(head);
+    head = reverse(head);
+    printLinkedList(head);
 
 }
