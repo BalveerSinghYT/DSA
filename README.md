@@ -146,6 +146,9 @@ I spent most of my time collecting papers for my research thesis instead of find
 
 🔄 In the LinkedList saga, today I delved into the art of reversing a LinkedList! 🔄 Explored the sliding window approach and the magic of recursion with two pointers. Adding new tools to the coding arsenal!
 
+## Day 33 - September 28th:
+
+🌐 Learned the art of concatenating two Linked Lists and merging them in sorting order. Also, tackled questions on GeeksforGeeks.
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
