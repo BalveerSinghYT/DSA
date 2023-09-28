@@ -129,6 +129,23 @@ I spent most of my time collecting papers for my research thesis instead of find
 ## Day 28 - September 23rd:
 
 🔗 Explored LinkedLists today! 🚀 Implemented linked lists and performed various operations like displaying data, finding length, and calculating the sum of elements. Also, conquered the "problem of the day" on GFG and tackled a few challenges on HackerRank. Progress is shining bright! 💡
+
+## Day 29 - September 24th:
+
+🧩 Challenging day! Participated in two contests but couldn't solve any problems fully. Managed to tackle 2 questions partially. 🤯 On the LinkedList journey, exploring Max, Min, and searching. Learning the art of writing recursive functions for them! 🚀
+
+## 🎊 Day 30 🎊 - September 25th:
+
+🔍 Navigating the world of searching using recursion and mastering the art of insertion in LinkedLists. 🚀 Explored operations like inserting at the front, middle, and after a specific node, even in sorted lists. Learning and growing every day! 💡💻
+
+## Day 31 - September 26th:
+
+🧹 Explored the art of Linkedlist cleanup today! 🚮 Covered node deletion, checking if the list is sorted, and removing duplicates. Keeping those Linkedlists neat and tidy! 💡💻
+
+## Day 32 - September 27th:
+
+🔄 In the LinkedList saga, today I delved into the art of reversing a LinkedList! 🔄 Explored the sliding window approach and the magic of recursion with two pointers. Adding new tools to the coding arsenal!
+
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
