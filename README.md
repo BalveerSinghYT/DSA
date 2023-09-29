@@ -149,6 +149,11 @@ I spent most of my time collecting papers for my research thesis instead of find
 ## Day 33 - September 28th:
 
 🌐 Learned the art of concatenating two Linked Lists and merging them in sorting order. Also, tackled questions on GeeksforGeeks.
+
+## Day 34 - September 29th:
+
+I struggled with merging two sorted linked lists due to a small error. It took longer than expected, but I eventually solved it after repeated debugging. I also worked on detecting loops in linked lists. My pace is slower, I need to spend more time on this section.
+
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
