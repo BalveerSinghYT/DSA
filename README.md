@@ -158,6 +158,10 @@ I struggled with merging two sorted linked lists due to a small error. It took l
 
 Revised the LinkedList section that has been covered so far and practiced the problems. But no major increment in progress today. 😑
 
+## Day 36 - October 1st:
+
+🤷‍♀️ Sometimes, life throws curveballs! ⚾ Not able to dedicate time as planned for DSA. Today, circled back to revisiting the concepts of finding & removing duplicates and loops in the linked list. It's all about persistence! 📚🔄
+
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
