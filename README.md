@@ -154,6 +154,14 @@ I spent most of my time collecting papers for my research thesis instead of find
 
 I struggled with merging two sorted linked lists due to a small error. It took longer than expected, but I eventually solved it after repeated debugging. I also worked on detecting loops in linked lists. My pace is slower, I need to spend more time on this section.
 
+## Day 35 - September 30th:
+
+Revised the LinkedList section that has been covered so far and practiced the problems. But no major increment in progress today. 😑
+
+## Day 36 - October 1st:
+
+🤷‍♀️ Sometimes, life throws curveballs! ⚾ Not able to dedicate time as planned for DSA. Today, circled back to revisiting the concepts of finding & removing duplicates and loops in the linked list. It's all about persistence! 📚🔄
+
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
