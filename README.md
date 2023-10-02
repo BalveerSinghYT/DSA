@@ -162,6 +162,10 @@ Revised the LinkedList section that has been covered so far and practiced the pr
 
 🤷‍♀️ Sometimes, life throws curveballs! ⚾ Not able to dedicate time as planned for DSA. Today, circled back to revisiting the concepts of finding & removing duplicates and loops in the linked list. It's all about persistence! 📚🔄
 
+## Day 37 - October 2nd:
+
+📅 Explored Circular Linked Lists today! 🔄 Learned how to create and display them. Circular adventures in the world of data structures! 💡👩‍💻
+
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
