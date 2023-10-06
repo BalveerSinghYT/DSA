@@ -166,6 +166,18 @@ Revised the LinkedList section that has been covered so far and practiced the pr
 
 📅 Explored Circular Linked Lists today! 🔄 Learned how to create and display them. Circular adventures in the world of data structures! 💡👩‍💻
 
+## Day 38 - October 3rd:
+
+🔄 Circular Linked Lists revisited! 📺 Rewatched the video to grasp it better. ✍️ Wrote code to create a circular linked list from an array and display it. Strengthening the foundation! 
+
+## Day 39 - October 4th:
+
+🔄 Continued the Circular Linked List journey today! 🚀 Covered insertion and deletion operations. Building the skills step by step! 📚🔄
+
+## Day 40 - October 5th:
+
+📚 Expanded the toolkit! 🧩 Delved into the concept of Maps in the C++ STL library. 🗺️ Put that knowledge to work, solving a LinkedList question. Learning and applying new tools! 📖🚀
+
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
