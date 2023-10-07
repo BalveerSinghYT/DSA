@@ -178,6 +178,14 @@ Revised the LinkedList section that has been covered so far and practiced the pr
 
 📚 Expanded the toolkit! 🧩 Delved into the concept of Maps in the C++ STL library. 🗺️ Put that knowledge to work, solving a LinkedList question. Learning and applying new tools! 📖🚀
 
+## Day 41 - October 6th:
+
+Explored Circular Linked List deletions and ventured into Doubly Linked Lists. Building solid foundations! 💪💡 #100DaysOfCode #LinkedLists 📚🚀
+
+## Day 42 - October 7th:
+
+Diving deep into Doubly Linked Lists today! 🔄 Covered creation from an array, insertion at the first and end, deletions, and tracking the length. Double the fun compared to Circular Linked Lists! 💪📚 
+
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
