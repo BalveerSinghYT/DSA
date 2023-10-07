@@ -182,6 +182,9 @@ Revised the LinkedList section that has been covered so far and practiced the pr
 
 Explored Circular Linked List deletions and ventured into Doubly Linked Lists. Building solid foundations! 💪💡 #100DaysOfCode #LinkedLists 📚🚀
 
+## Day 42 - October 7th:
+
+Diving deep into Doubly Linked Lists today! 🔄 Covered creation from an array, insertion at the first and end, deletions, and tracking the length. Double the fun compared to Circular Linked Lists! 💪📚 
 
 ---
 
