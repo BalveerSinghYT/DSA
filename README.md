@@ -186,6 +186,10 @@ Explored Circular Linked List deletions and ventured into Doubly Linked Lists. B
 
 Diving deep into Doubly Linked Lists today! 🔄 Covered creation from an array, insertion at the first and end, deletions, and tracking the length. Double the fun compared to Circular Linked Lists! 💪📚 
 
+## Day 43 - October 8th:
+
+Tackling the challenges of Doubly Linked Lists! 🔄 Covered reversing a doubly linked list and ventured into Circular Doubly Linked Lists.
+
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
