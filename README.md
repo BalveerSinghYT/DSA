@@ -190,6 +190,11 @@ Diving deep into Doubly Linked Lists today! 🔄 Covered creation from an array,
 
 Tackling the challenges of Doubly Linked Lists! 🔄 Covered reversing a doubly linked list and ventured into Circular Doubly Linked Lists.
 
+## Day 44 - October 9th:
+
+Sharpening the coding skills! 🚀 Spent the day practicing questions on LinkedLists and other data structures on HackerRank and GeeksForGeeks.
+
+
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
