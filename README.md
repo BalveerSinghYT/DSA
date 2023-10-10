@@ -194,6 +194,10 @@ Tackling the challenges of Doubly Linked Lists! 🔄 Covered reversing a doubly 
 
 Sharpening the coding skills! 🚀 Spent the day practicing questions on LinkedLists and other data structures on HackerRank and GeeksForGeeks.
 
+## Day 45 - October 10th:
+
+Finishing strong with LinkedLists! 📚 Covered finding the middle of a LinkedList, identifying intersection nodes between two LinkedLists, and compared various LinkedList types in terms of different operations. Excited to dive into the next section on Stacks tomorrow! 💡👩‍💻
+
 
 ---
 
