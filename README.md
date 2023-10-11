@@ -198,6 +198,9 @@ Sharpening the coding skills! 🚀 Spent the day practicing questions on LinkedL
 
 Finishing strong with LinkedLists! 📚 Covered finding the middle of a LinkedList, identifying intersection nodes between two LinkedLists, and compared various LinkedList types in terms of different operations. Excited to dive into the next section on Stacks tomorrow! 💡👩‍💻
 
+## Day 46 - October 11th:
+
+Moving forward with new challenges! 🚀 Tackled LinkedList questions and delved into the world of Stacks, exploring various operations. Learning and coding, one step at a time! 💡💻 
 
 ---
 
