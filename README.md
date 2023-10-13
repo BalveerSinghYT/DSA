@@ -196,7 +196,7 @@ Sharpening the coding skills! 🚀 Spent the day practicing questions on LinkedL
 
 ## Day 45 - October 10th:
 
-Finishing strong with LinkedLists! 📚 Covered finding the middle of a LinkedList, identifying intersection nodes between two LinkedLists, and compared various LinkedList types in terms of different operations. Excited to dive into the next section on Stacks tomorrow! 💡👩‍💻
+Finishing strong with LinkedLists! 📚 Covered finding the middle of a LinkedList, identifying intersection nodes between two LinkedLists, and comparing various LinkedList types in terms of different operations. Excited to dive into the next section on Stacks tomorrow! 💡👩‍💻
 
 ## Day 46 - October 11th:
 
@@ -205,6 +205,11 @@ Moving forward with new challenges! 🚀 Tackled LinkedList questions and delved
 ## Day 47 - October 11th:
 
 Short on time but didn't miss a beat! 🕐 Covered Stack creation and operations using arrays, getting the foundation in place. Every bit counts! 💪💡 
+
+## Day 48 - October 13th:
+
+Having a blast with Stacks! 💪 Today, I solved some basic stack problems and built a stack from scratch using Linked Lists. Learning by doing!
+
 
 ---
 
