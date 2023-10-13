@@ -186,6 +186,26 @@ Explored Circular Linked List deletions and ventured into Doubly Linked Lists. B
 
 Diving deep into Doubly Linked Lists today! 🔄 Covered creation from an array, insertion at the first and end, deletions, and tracking the length. Double the fun compared to Circular Linked Lists! 💪📚 
 
+## Day 43 - October 8th:
+
+Tackling the challenges of Doubly Linked Lists! 🔄 Covered reversing a doubly linked list and ventured into Circular Doubly Linked Lists.
+
+## Day 44 - October 9th:
+
+Sharpening the coding skills! 🚀 Spent the day practicing questions on LinkedLists and other data structures on HackerRank and GeeksForGeeks.
+
+## Day 45 - October 10th:
+
+Finishing strong with LinkedLists! 📚 Covered finding the middle of a LinkedList, identifying intersection nodes between two LinkedLists, and compared various LinkedList types in terms of different operations. Excited to dive into the next section on Stacks tomorrow! 💡👩‍💻
+
+## Day 46 - October 11th:
+
+Moving forward with new challenges! 🚀 Tackled LinkedList questions and delved into the world of Stacks, exploring various operations. Learning and coding, one step at a time! 💡💻 
+
+## Day 47 - October 11th:
+
+Short on time but didn't miss a beat! 🕐 Covered Stack creation and operations using arrays, getting the foundation in place. Every bit counts! 💪💡 
+
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
