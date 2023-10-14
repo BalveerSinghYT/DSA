@@ -210,6 +210,9 @@ Short on time but didn't miss a beat! 🕐 Covered Stack creation and operations
 
 Having a blast with Stacks! 💪 Today, I solved some basic stack problems and built a stack from scratch using Linked Lists. Learning by doing!
 
+## Day 49 - October 14th:
+
+Getting hands-on with Stack challenges! 🧩 Solved stack questions on GeeksforGeeks, including tasks like parenthesis matching and removing middle elements. 
 
 ---
 
