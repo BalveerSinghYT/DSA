@@ -214,6 +214,10 @@ Having a blast with Stacks! 💪 Today, I solved some basic stack problems and b
 
 Getting hands-on with Stack challenges! 🧩 Solved stack questions on GeeksforGeeks, including tasks like parenthesis matching and removing middle elements. 
 
+## 🎊 Day 50 🎊 - October 16th:
+
+🎉 Halfway through the journey! 🚀 Today, I tackled the multiple parenthesis checker problem with stacks and delved into the basics of infix, postfix, and prefix expressions. Onward and upward! 💪💡 
+
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
