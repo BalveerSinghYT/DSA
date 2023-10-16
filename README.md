@@ -202,7 +202,7 @@ Finishing strong with LinkedLists! 📚 Covered finding the middle of a LinkedLi
 
 Moving forward with new challenges! 🚀 Tackled LinkedList questions and delved into the world of Stacks, exploring various operations. Learning and coding, one step at a time! 💡💻 
 
-## Day 47 - October 11th:
+## Day 47 - October 12th:
 
 Short on time but didn't miss a beat! 🕐 Covered Stack creation and operations using arrays, getting the foundation in place. Every bit counts! 💪💡 
 
