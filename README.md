@@ -218,6 +218,10 @@ Getting hands-on with Stack challenges! 🧩 Solved stack questions on GeeksforG
 
 🎉 Halfway through the journey! 🚀 Today, I tackled the multiple parenthesis checker problem with stacks and delved into the basics of infix, postfix, and prefix expressions. Onward and upward! 💪💡 
 
+## Day 51 - October 17th:
+
+We all have those days! 🤷‍♂️ Didn't accomplish as much, but I tried my hand at solving problems on GeeksforGeeks and HackerRank. Progress comes in all forms! 💪💻 #100DaysOfCode #CodingJourney 📚🚀
+
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
