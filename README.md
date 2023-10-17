@@ -222,6 +222,10 @@ Getting hands-on with Stack challenges! 🧩 Solved stack questions on GeeksforG
 
 We all have those days! 🤷‍♂️ Didn't accomplish as much, but I tried my hand at solving problems on GeeksforGeeks and HackerRank. Progress comes in all forms! 💪💻 #100DaysOfCode #CodingJourney 📚🚀
 
+## Day 52 - October 17th:
+
+No major update today. Just tried solving a few problems on HackerRank and GeeksForGeeks.
+
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
