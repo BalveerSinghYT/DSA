@@ -196,15 +196,43 @@ Sharpening the coding skills! 🚀 Spent the day practicing questions on LinkedL
 
 ## Day 45 - October 10th:
 
-Finishing strong with LinkedLists! 📚 Covered finding the middle of a LinkedList, identifying intersection nodes between two LinkedLists, and compared various LinkedList types in terms of different operations. Excited to dive into the next section on Stacks tomorrow! 💡👩‍💻
+Finishing strong with LinkedLists! 📚 Covered finding the middle of a LinkedList, identifying intersection nodes between two LinkedLists, and comparing various LinkedList types in terms of different operations. Excited to dive into the next section on Stacks tomorrow! 💡👩‍💻
 
 ## Day 46 - October 11th:
 
 Moving forward with new challenges! 🚀 Tackled LinkedList questions and delved into the world of Stacks, exploring various operations. Learning and coding, one step at a time! 💡💻 
 
-## Day 47 - October 11th:
+## Day 47 - October 12th:
 
 Short on time but didn't miss a beat! 🕐 Covered Stack creation and operations using arrays, getting the foundation in place. Every bit counts! 💪💡 
+
+## Day 48 - October 13th:
+
+Having a blast with Stacks! 💪 Today, I solved some basic stack problems and built a stack from scratch using Linked Lists. Learning by doing!
+
+## Day 49 - October 14th:
+
+Getting hands-on with Stack challenges! 🧩 Solved stack questions on GeeksforGeeks, including tasks like parenthesis matching and removing middle elements. 
+
+## 🎊 Day 50 🎊 - October 15th:
+
+🎉 Halfway through the journey! 🚀 Today, I tackled the multiple parenthesis checker problem with stacks and delved into the basics of infix, postfix, and prefix expressions. Onward and upward! 💪💡 
+
+## Day 51 - October 16th:
+
+We all have those days! 🤷‍♂️ Didn't accomplish as much, but I tried my hand at solving problems on GeeksforGeeks and HackerRank. Progress comes in all forms! 💪💻 #100DaysOfCode #CodingJourney 📚🚀
+
+## Day 52 - October 17th:
+
+No major update today. Just tried solving a few problems on HackerRank and GeeksForGeeks.
+
+## Day 53 - October 18th:
+
+Progress has slowed down, but the journey continues. Balancing research thesis and coding efforts. Focusing on infix to postfix with stacks. 📚💡 #100DaysOfCode #KeepItSimple 🚀💪
+
+## Day 54 - October 19th:
+
+📝 Wrote code for infix to postfix conversion and practiced stack problems on GeeksforGeeks.
 
 ---
 
