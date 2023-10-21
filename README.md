@@ -238,6 +238,9 @@ Progress has slowed down, but the journey continues. Balancing research thesis a
 
 📚 Covered the stack topics that were left earlier and practiced questions on GeeksforGeeks. Making progress one step at a time! 💪💡
 
+## Day 56 - October 21st:
+
+Today I tried solving two medium level stack related problem, but I was able to solve only one of them that is getting next greater element.
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
