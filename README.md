@@ -241,6 +241,14 @@ Progress has slowed down, but the journey continues. Balancing research thesis a
 ## Day 56 - October 21st:
 
 Today I tried solving two medium level stack related problem, but I was able to solve only one of them that is getting next greater element.
+
+## Day 57 - October 22nd:
+
+Double-stack power! 🔥 Solved two stack-related questions:
+
+1. Implementing two stacks in one array.
+2. Building a queue using stacks. Learning and coding the stack way! 💡
+
 ---
 
 Let's keep this coding momentum going! Exciting times ahead as I continue this journey of growth and learning. Stay tuned for more updates! 🌱👩‍💻
